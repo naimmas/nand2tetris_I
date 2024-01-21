@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "hash.h": "c",
+        "cparser.h": "c",
+        "stdlib.h": "c",
+        "inc.h": "c",
+        "stdio.h": "c",
+        "aparser.h": "c",
+        "limits": "c"
+    }
+}
